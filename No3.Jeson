@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ebe56774c0020ba2",
+        "key": "key67890",
+        "expirydate": "27-04-2026",
+        "Allowoffline": false
     }
 ]
